@@ -4,6 +4,8 @@ from langchain_community.document_loaders import TextLoader
 from langchain_chroma import Chroma
 from langchain_openai import OpenAIEmbeddings
 
+
+# Define the directory containing the text file and the persistent directory
 # Define the directory containing the text file and the persistent directory
 current_dir = os.path.dirname(os.path.abspath(__file__))
 file_path = os.path.join(current_dir, "documents", "lord_of_the_rings.txt")
