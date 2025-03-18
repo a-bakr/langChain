@@ -2,6 +2,7 @@
 
 ![LangChain Academy](<https://cdn.prod.website-files.com/65b8cd72835ceeacd4449a53/66e9eba1020525eea7873f96_LCA-big-green%20(2).svg>)
 
+
 A comprehensive collection of projects, tutorials, and examples for learning LangChain, LangGraph, and related technologies for building powerful AI applications.
 
 ## Overview
