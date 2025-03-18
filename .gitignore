@@ -10,6 +10,8 @@ __pycache__/
 # C extensions
 *.so
 
+linkedin_LangChain
+
 # Distribution / packaging
 .Python
 build/
